@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RScrollView_Example' do
+  pod 'RScrollView', :path => '../'
+
+  target 'RScrollView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
