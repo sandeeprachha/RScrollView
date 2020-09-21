@@ -13,7 +13,9 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        let vc = FirstViewController()
+        vc.viewDidLoad()
+        vc.hello()
         // Do any additional setup after loading the view, typically from a nib.
     }
 

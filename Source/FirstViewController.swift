@@ -7,11 +7,11 @@
 
 import UIKit
 
-class FirstViewController: UIViewController {
+public class FirstViewController: UIViewController {
 
-    override func viewDidLoad() {
+    public override func viewDidLoad() {
         super.viewDidLoad()
-
+       // print("hello pod")
         // Do any additional setup after loading the view.
     }
     
@@ -26,4 +26,7 @@ class FirstViewController: UIViewController {
     }
     */
 
+    public func hello() {
+        print("hello pod")
+    }
 }
