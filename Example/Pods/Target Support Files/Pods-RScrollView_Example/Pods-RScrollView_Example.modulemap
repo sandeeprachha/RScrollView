@@ -1,0 +1,6 @@
+framework module Pods_RScrollView_Example {
+  umbrella header "Pods-RScrollView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

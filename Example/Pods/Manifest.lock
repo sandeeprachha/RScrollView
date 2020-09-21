@@ -1,0 +1,16 @@
+PODS:
+  - RScrollView (0.1.0)
+
+DEPENDENCIES:
+  - RScrollView (from `../`)
+
+EXTERNAL SOURCES:
+  RScrollView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RScrollView: 078d6cb93f13d7bd49673a5972b2e6914e2a1ea1
+
+PODFILE CHECKSUM: efad97d0e3b3b5d3634e982eebbddec8c27aad62
+
+COCOAPODS: 1.9.3

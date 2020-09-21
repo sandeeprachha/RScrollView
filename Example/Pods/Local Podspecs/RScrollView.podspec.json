@@ -1,0 +1,22 @@
+{
+  "name": "RScrollView",
+  "version": "0.1.0",
+  "summary": "A short description of RScrollView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sandeeprachha/RScrollView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sandeeprachha": "rachhasandeepkumar.4a3"
+  },
+  "source": {
+    "git": "https://github.com/sandeeprachha/RScrollView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RScrollView/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module RScrollView {
+  umbrella header "RScrollView-umbrella.h"
+
+  export *
+  module * { export * }
+}
