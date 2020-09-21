@@ -30,7 +30,7 @@ TODO: RScrollView is awesome scrollview library which is to use.
 
   s.ios.deployment_target = '11.0'
   s.swift_version = '4.0'
-  s.source_files = 'RScrollView/Source/**/*'
+  s.source_files = 'Source/**/*'
   
   # s.resource_bundles = {
   #   'RScrollView' => ['RScrollView/Assets/*.png']
